@@ -53,3 +53,4 @@ dkms.conf
 .vscode/
 *copy.ipynb
 *.md
+разбор_сортировки_датафрейма.ipynb
