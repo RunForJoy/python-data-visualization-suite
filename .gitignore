@@ -54,3 +54,4 @@ dkms.conf
 *copy.ipynb
 *.md
 разбор_сортировки_датафрейма.ipynb
+src/data/checking-logs_initial.sqlite
