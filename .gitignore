@@ -55,3 +55,4 @@ dkms.conf
 *.md
 разбор_сортировки_датафрейма.ipynb
 src/data/checking-logs_initial.sqlite
+src/ex09/old/09_plotly.ipynb
